@@ -1,7 +1,7 @@
 # Towermancy
 
 ## Premise
-It is all fine and good to rely on magic that only affects your personal self or anything that you wish to target directly. But something is missing. When you think of mages, do you picture and individual with a small hut in a swamp and a couple of altars? Or do you picture a city of towers, steeped in magic and wisdom, where the very environment crackles with energy, and there are no limitations within its confines? This is just as possible as flinging around a ball of fire to attack your enemies or turning plants into magical energy.
+It is all fine and good to rely on magic that only affects your personal self or anything that you wish to target directly. But something is missing. When you think of mages, do you picture an individual with a small hut in a swamp and a couple of altars? Or do you picture a city of towers, steeped in magic and wisdom, where the very environment crackles with energy, and there are no limitations within its confines? This is just as possible as flinging around a ball of fire to attack your enemies or turning plants into magical energy.
 
 ## Items
 - Diamond Infused Quartz (Main crafting material)
